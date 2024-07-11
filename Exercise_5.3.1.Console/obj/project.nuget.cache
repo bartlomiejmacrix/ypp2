@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3hDe/RZWas=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BartlomiejSzczepanik\\Documents\\random repo\\Exercise_5.3.1\\Exercise_5.3.1.Console\\Exercise_5.3.1.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BartlomiejSzczepanik\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\BartlomiejSzczepanik\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\BartlomiejSzczepanik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\BartlomiejSzczepanik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
